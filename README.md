@@ -2,6 +2,7 @@ NOTE: The RPA Challenge website is OUTDATED.
 
 
 How to use:
+
 0. Delete "answer.csv" file (if there's one)
 1. Go to https://rpachallengeocr.azurewebsites.net/
 2. Click on "Start"
