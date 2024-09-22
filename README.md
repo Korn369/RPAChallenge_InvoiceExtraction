@@ -12,4 +12,4 @@ How to use:
 6. Submit "answer.csv" file (The file should be in the same folder as project folder)
 
 Known bug:
-1. Due to the nature of Tesseract OCR, It is possible that it get some number wrong, thus resulting in a failed challenge.
+1. Due to the nature of Tesseract OCR, It is possible that it gets some number wrong, thus resulting in a failed challenge.
